@@ -207,7 +207,7 @@ header {
   .main-article .image,
   .main-article .content {
     width: 100%;
-    padding: 10px;
+    padding: 2px;
   }
 
   article {
@@ -236,6 +236,7 @@ header {
     width: 100%;
   }
 
+ 
   .articles-container {
     gap: 40px;
   }
@@ -257,7 +258,7 @@ header {
 
   .menu-icon {
     display: block;
-    padding: 10px;
+    padding: 7px;
   }
 
   .newspaper-name {
@@ -270,15 +271,6 @@ header {
 
   .articles-container {
     flex-direction: column;
-    width: 100%;
-  }
-
-  .main-article .image {
-    width: 100%;
-  }
-
-  .main-article .content {
-    width: 100%;
   }
 
   .article {
